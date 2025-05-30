@@ -33,7 +33,7 @@ Firebase, GitHub, VS Code
 #### 🎬 Movie Portal
 A modern movie platform with user authentication, movie CRUD, and responsive design.
 
-🔗 [Client Repo]((https://github.com/mahfuz-kallyan/movie-portal-client-site))  
+🔗 [Client Repo](https://github.com/mahfuz-kallyan/movie-portal-client-site)  
 🔗 [Server Repo](https://github.com/mahfuz-kallyan/movie-portal-server-site)  
 ⚙️ **Tech:** React, Tailwind CSS, Firebase, JWT, Express.js, MongoDB  
 ✨ **Features:**  
